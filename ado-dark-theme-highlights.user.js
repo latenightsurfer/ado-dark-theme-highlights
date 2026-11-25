@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ADO dark theme: restore highlight and font colors
 // @namespace    https://github.com/latenightsurfer/ado-dark-theme-highlights
-// @version      2.0.0
+// @version      1.0.0
 // @description  Azure DevOps dark theme overrides inline highlight (background) and font colors in rich text (comments, descriptions). This script re-applies them and keeps the text readable.
 // @homepageURL  https://github.com/latenightsurfer/ado-dark-theme-highlights
 // @supportURL   https://github.com/latenightsurfer/ado-dark-theme-highlights/issues
